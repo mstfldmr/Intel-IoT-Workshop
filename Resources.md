@@ -22,3 +22,9 @@ IoT Gateway
 -----------
 
  - https://github.com/intel-iot-devkit/intel-iot-gateway
+
+Joule
+-----
+
+ - https://developer.microsoft.com/en-us/windows/iot/GetStarted#
+ - https://software.intel.com/en-us/articles/how-to-install-windows-10-iot-core-on-intel-joule
