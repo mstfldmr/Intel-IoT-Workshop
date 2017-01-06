@@ -51,4 +51,7 @@ Agenda
   - Programming Intel IoT Gateway using Node-RED
 - [Other Devices](Other-Devices/)
   - Installing Android on Minnowboard
+  - Installing Windows 10 IoT Core on Minnowboard
   - Installing Ubilinux OS on UpBoard
+- [Mobile Apps](Mobile-Apps/)
+  - Developing an MQTT enabled app for Android
