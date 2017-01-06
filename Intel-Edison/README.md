@@ -14,7 +14,7 @@ Setting up the Board
 --------------------
 Assemble the board as in the picture: install the Edison Compute Module and the plastic seperators.
 
-![Assemble the board](/images/assemble_board.jpg)
+![Assemble the board](images/assemble_board.jpg)
 
 There is a power supply socket(4), a Type-A USB port and 2 micro USB ports(2, 3) and a switch(1) on the Arduino Expansion Board.
 
@@ -29,7 +29,7 @@ External DC power supply(4) must provide a voltage between 7-15V and a minimum c
 > Some laptops may not be able to provide enough current to power Edison. Powering it using an external power supply is more stable. However, in this workshop we will Edison through the micro USB port(2).
 
 Make sure that the switch(1) is pointing down, towards the micro USB ports. Connect 2 Micro USB ports(2, 3) to your computer.
-![Connect the board to your computer](/images/connect.jpg)
+![Connect the board to your computer](images/connect.jpg)
 
 Now, the green power LED indicator should light up. If not, check the cables, or use an external power supply.
 
@@ -39,7 +39,7 @@ Installing the Drivers
 ----------------------
 Drivers should be installed on your computer using [Edison Setup Tool](https://software.intel.com/iot/hardware/edison/downloads)
 
-![Edison Setup Tool](/images/setup_tool.png)
+![Edison Setup Tool](images/setup_tool.png)
 
 > Edison Setup Tool can also be used to flash firmware on Edison and configure it. We will cover flashing firmware in section "Building Yocto Linux and Deploying It" and we will configure it in section "Configuring Edison".
 
