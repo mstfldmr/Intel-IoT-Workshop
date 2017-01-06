@@ -29,6 +29,7 @@ External DC power supply(4) must provide a voltage between 7-15V and a minimum c
 > Some laptops may not be able to provide enough current to power Edison. Powering it using an external power supply is more stable. However, in this workshop we will Edison through the micro USB port(2).
 
 Make sure that the switch(1) is pointing down, towards the micro USB ports. Connect 2 Micro USB ports(2, 3) to your computer.
+
 ![Connect the board to your computer](images/connect.jpg)
 
 Now, the green power LED indicator should light up. If not, check the cables, or use an external power supply.
