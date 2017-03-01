@@ -1,0 +1,14 @@
+{
+  "name": "upm-lcd-sample",
+  "description": "Controlling LCD and Light Sensor using UPM Library",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "q": "latest"
+  }
+}
