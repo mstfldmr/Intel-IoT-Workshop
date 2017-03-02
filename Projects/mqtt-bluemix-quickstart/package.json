@@ -1,6 +1,6 @@
 {
-  "name": "webserver-temp",
-  "description": "Web server reporting temperature",
+  "name": "mqtt-bluemix-quickstart",
+  "description": "Send sensor readings to Bluemix Quickstart via MQTT",
   "version": "0.0.0",
   "main": "main.js",
   "engines": {
@@ -9,5 +9,6 @@
   "license": "BSD-3-Clause",
   "private": true,
   "dependencies": {
+      "mqtt": ">=1.3.3"
   }
 }

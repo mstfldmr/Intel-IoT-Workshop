@@ -1,0 +1,80 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1488473488613,
+        "modified": 1488473488613,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1488473488612,
+        "modified": 1488473488612,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1488473488614,
+        "modified": 1488473488614,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1488476169667,
+        "modified": 1488476169667,
+        "seen": true,
+        "name": "main.js"
+      },
+      "mqtt-bluemix-quickstart.xdk": {
+        "previousModTime": 1488473489022,
+        "modified": 1488473489022,
+        "seen": true,
+        "name": "mqtt-bluemix-quickstart.xdk"
+      },
+      "mqtt-bluemix-quickstart.xdke": {
+        "previousModTime": 1488475791468,
+        "modified": 1488475791468,
+        "seen": true,
+        "name": "mqtt-bluemix-quickstart.xdke"
+      },
+      "package.json": {
+        "previousModTime": 1488474397799,
+        "modified": 1488474397799,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1488473488616,
+        "modified": 1488473488616,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1488473488898,
+        "modified": 1488473488898,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "_gitignore.txt": {
+        "previousModTime": 1488475432274,
+        "modified": 1488475432274,
+        "seen": true,
+        "name": "_gitignore.txt"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1488476173914
+      }
+    }
+  }
+}
