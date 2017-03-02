@@ -1,0 +1,80 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1488478042281,
+        "modified": 1488478042281,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1488478042279,
+        "modified": 1488478042279,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1488478042282,
+        "modified": 1488478042282,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1488479649758,
+        "modified": 1488479649758,
+        "seen": true,
+        "name": "main.js"
+      },
+      "mqtt-send-receive.xdk": {
+        "previousModTime": 1488478042712,
+        "modified": 1488478042712,
+        "seen": true,
+        "name": "mqtt-send-receive.xdk"
+      },
+      "mqtt-send-receive.xdke": {
+        "previousModTime": 1488479642191,
+        "modified": 1488479642191,
+        "seen": true,
+        "name": "mqtt-send-receive.xdke"
+      },
+      "package.json": {
+        "previousModTime": 1488478584290,
+        "modified": 1488478584290,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1488478042287,
+        "modified": 1488478042287,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1488478042597,
+        "modified": 1488478042597,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "setup-mqtt.txt": {
+        "previousModTime": 1488479321158,
+        "modified": 1488479321158,
+        "seen": true,
+        "name": "setup-mqtt.txt"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1488479653357
+      }
+    }
+  }
+}

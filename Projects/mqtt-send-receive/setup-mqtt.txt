@@ -1,0 +1,24 @@
+## Update the system and install required packages
+sudo apt-get update
+sudo apt-get -y upgrade
+sudo apt-get -y install build-essential libwrap0-dev libssl-dev libc-ares-dev uuid-dev xsltproc
+
+## Install server
+sudo adduser mosquitto
+sudo apt-get -y install mosquitto
+sudo service mosquitto status
+
+## Install client
+sudo apt-get -y install libmosquitto-dev mosquitto-clients
+
+## Testing
+Subscribe:
+mosquitto_sub -h localhost -t "workshop" -v
+mosquitto_sub -h test.mosquitto.org -t "workshop" -v
+
+Publish:
+mosquitto_pub -h localhost -t "workshop" -m "Hello MQTT"
+mosquitto_pub -h test.mosquitto.org -t "workshop" -m "Hello MQTT"
+
+## Desktop App for testing
+MQTT.FX: http://www.jensd.de/apps/mqttfx/
