@@ -7,5 +7,71 @@
   },
   "editorTab": {
     "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1488384080996,
+        "modified": 1488384080996,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1488384080991,
+        "modified": 1488384080991,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1488384080996,
+        "modified": 1488384080996,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1488470948781,
+        "modified": 1488470948781,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1488470916590,
+        "modified": 1488470916590,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1488384080999,
+        "modified": 1488384080999,
+        "seen": true,
+        "name": "README.md"
+      },
+      "upm-lcd-light.xdk": {
+        "previousModTime": 1488384082037,
+        "modified": 1488384082037,
+        "seen": true,
+        "name": "upm-lcd-light.xdk"
+      },
+      "upm-lcd-light.xdke": {
+        "previousModTime": 1488470720996,
+        "modified": 1488470720996,
+        "seen": true,
+        "name": "upm-lcd-light.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1488384081869,
+        "modified": 1488384081869,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1488470950072
+      },
+      "package.json": {
+        "previousModTime": 1488470950072
+      }
+    }
   }
 }
